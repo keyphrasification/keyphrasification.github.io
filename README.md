@@ -1,2 +1,3 @@
-# keyphrasification.github.io
-Repository of the tutorial "From Fundamentals to Recent Advances: A Tutorial on Keyphrasification", an ECIR 2022 half-day tutorial
+# repository for the webpage of the keyphrasification tutorial
+
+https://keyphrasification.github.io/

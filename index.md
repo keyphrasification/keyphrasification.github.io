@@ -17,3 +17,26 @@ This tutorial covers important topics ranging from basics of the task to the adv
 - Rui Meng, Saleforce Research
 - Debanjan Mahata, Moody’s Analytics
 - Florian Boudin, Nantes Université
+
+## Content
+
+- Introduction
+  * Motivation of the tutorial
+  * An overview of history and applications
+  * Taxonomy of Methods for Keyphrasification
+  * Evaluation Metrics
+  * Hands-on Session with PKE
+- Neural Networks based Methods
+  * Neural Keyphrase Generation
+  * Neural Keyphrase Extraction
+  * Keyphrasification with Pre-trained Models
+  * Practice of Neural Models with Colab.
+- Advanced Topics
+  * Keyphrase generation for document retrieval
+  * Keyphrasification beyond the scientific domain
+  * Language models for learning better keyphrase representations from text.
+- Summary and Future Directions
+  * Summary
+  * Challenges and Future Research Directions
+  * Interaction with the Audience
+- Question Answering and Discussion

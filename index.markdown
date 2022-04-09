@@ -25,23 +25,26 @@ This tutorial covers important topics ranging from basics of the task to the adv
 
 ## Content
 
-- Introduction
-  * Motivation of the tutorial
-  * An overview of history and applications
-  * Taxonomy of Methods for Keyphrasification
-  * Evaluation Metrics
-  * Hands-on Session with PKE
-- Neural Networks based Methods
-  * Neural Keyphrase Generation
-  * Neural Keyphrase Extraction
-  * Keyphrasification with Pre-trained Models
-  * Practice of Neural Models with Colab.
-- Advanced Topics
-  * Keyphrase generation for document retrieval
-  * Keyphrasification beyond the scientific domain
-  * Language models for learning better keyphrase representations from text.
-- Summary and Future Directions
-  * Summary
-  * Challenges and Future Research Directions
-  * Interaction with the Audience
+### Part 1 - Introduction and Classic Methods
+
+- Introduction to keyphrasification [[slides](https://docs.google.com/presentation/d/1WM0K7dYTCiSfCCyFZLcZgijEulCVVFRep6kUlCTMHAY/edit?usp=sharing)]
+- Datasets and evaluations [[slides](https://docs.google.com/presentation/d/1pPXTFfwTXeHOT9MhYL_LNTGNai-bL3sxpEOd2-UdiwI/edit?usp=sharing)]
+- Traditional methods for keyphrase extraction [[slides](https://docs.google.com/presentation/d/1TLk9RN13g9iUCm2YaW4j7JI7FuMPetWSPGmUPDsxJQY/edit?usp=sharing)]
+- Hands-on session with pke [[notebooks](https://github.com/keyphrasification/hands-on-with-pke)]
+
+### Part 2 - Modern Neural Methods
+
+- Deep Learning Methods for Keyphrase Extraction [[slides](https://docs.google.com/presentation/d/182cXR8IFGaC4Vh_oaivF9newfHxBWpntv6ERYr0Y7s0/edit?usp=sharing)]
+- Deep Learning Methods for Keyphrase Generation [[slides](https://docs.google.com/presentation/d/1lNDEpWd2lJEjrasDwgoxUpqqjBknCnixr1dPw29WKZI/edit?usp=sharing)]
+- [Hands-on session with dlkp]()
+
+### Part 3 - Advanced Topics
+
+- Keyphrase Generation for information retrieval [[slides](https://docs.google.com/presentation/d/1aYkWecZbRzw_J0ua6bHktsLZu4x3I6CFgtldg4C6oU4/edit?usp=sharing)]
+- Domain Adaptation for Keyphrase Generation [[slides](https://docs.google.com/presentation/d/164W4Ottqg2cH-9KNAJbG-SOduMjaCpsGMXV3HT0C06Q/edit?usp=sharing)]
+- Learning Better Keyphrase Representations [[slides](https://docs.google.com/presentation/d/1ZWuMkD2bstWvsCidnUGHfssmIB0A08lQ-7Udsb4JLm4/edit?usp=sharing)]
+
+### Part 4 - Closing remarks / QA Session
+
+- Challenges and Future Research Directions
 - Question Answering and Discussion

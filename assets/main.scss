@@ -1,0 +1,27 @@
+---
+---
+
+$content-width: 800px;
+$on-palm: 800px;
+$on-laptop: 800px;
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+}
+
+.site-title {
+    @include relative-font-size(2);
+}
+
+.site-nav {
+    line-height: 100px;
+}
+
+#logo {
+    max-height: 100px;
+}
